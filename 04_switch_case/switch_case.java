@@ -1,6 +1,6 @@
 public class switch_case {
     public static void main(String[] args) {
-        int n = 3;
+        int n = 7;
 
         switch(n){
             case 1: {
