@@ -28,9 +28,14 @@ public class Array_Object2{
         st[1] = st2;
         st[2] = st3;
 
-       for(int i = 0; i < st.length; i++){
-        System.out.println(st[i].name + " : " + st[i].marks);
-       }
+     //    for(int i = 0; i < st.length; i++){
+     //     System.out.println(st[i].name + " : " + st[i].marks);
+     //    }
       
+     // Print Student data using Enhance for loop.
+     for(Student sts : st){
+        System.out.println(sts.name + " : " +sts.marks);
+     }
+     
     }
 }
