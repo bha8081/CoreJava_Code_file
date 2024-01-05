@@ -1,6 +1,6 @@
 class Car
 {
-     static String brand;
+    static String brand;
     String name;
     int module;
     int price;
