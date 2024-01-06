@@ -12,7 +12,8 @@ public class String_Buffer{
        System.out.println(sb);
 
     // Convert StringBuffer -toString.
-      String str = sb.toString();
+      // String str = sb.toString();
+      // System.out.println(str);
 
     //   Delete method.
        sb.deleteCharAt(9);
