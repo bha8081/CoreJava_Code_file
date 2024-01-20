@@ -3,9 +3,9 @@ public class Demo {
     {
         Demo2 d2 = new Demo2();
 
-        d2.addtion();
-        d2.add();
-        d2.show();
-        d2.movie();
+        // d2.addtion();
+        // d2.add();
+        // d2.show();
+        // d2.movie();
     }
 }
